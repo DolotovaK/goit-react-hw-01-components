@@ -1,0 +1,23 @@
+.table {
+    margin: 0 auto;
+    width: 400px;
+    border-radius: 6px;
+}
+
+.title {
+    background-color:rgb(125, 191, 191);
+    height: 40px;
+    color: white;
+}
+
+/* .transaction {
+text-align: center;
+} */
+
+.row {
+    border: 1px solid #ddd;
+    padding: 10px;
+    font-size: 14px;
+    color: gray;
+    text-align: center;
+}

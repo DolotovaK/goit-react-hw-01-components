@@ -14,10 +14,6 @@ export const App = () => {
       <StatisticList stats={data} />
       <FriendList friends={friends} />
       <TransactionHistory transactions={transactions} />
-    {/* <Profile user={user} />
-    <StatisticList stats={data} />
-    <FriendList friends={friends} />
-    <TransactionHistory items={transactions}/> */}
     </>
   );
 };
